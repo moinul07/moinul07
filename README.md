@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Hi!!+It's+Moinul+here.....;I'm+a+lazy+artist..........)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&width=435&lines=Hi!!+It's+Moinul+here.....;)](https://git.io/typing-svg)
 
 
 - 👋 Hi, I’m @moinul07
